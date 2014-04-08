@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "UIButton-Bootstrap"
-  s.version="ß0.0.1"
+  s.version="0.0.1"
   s.summary      = "Simple UIButton category that adds nice and flat Bootstrap 3.0 button styles."
   s.description  = <<-DESC
                     Simple UIButton category that adds nice and flat Bootstrap 3.0 button styles.
